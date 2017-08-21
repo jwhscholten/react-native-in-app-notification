@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     paddingTop: isAndroid ? 0 : 20,
     width: '100%',
+    elevation: 8
   },
 });
 
