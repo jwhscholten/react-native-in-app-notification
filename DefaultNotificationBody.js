@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import { Alert, TouchableHighlight, View, Text, StyleSheet } from 'react-native';
 
 const defaultStyles = StyleSheet.create({
